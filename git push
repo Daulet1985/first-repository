@@ -1,0 +1,17 @@
+[33mcommit 49ffcc6b7ed0d55a6ea299c0bc4e422bc09bec4b[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Daulet <example@gmail.com>
+Date:   Thu Dec 9 23:13:19 2021 +0300
+
+    second
+
+[33mcommit a8469bf9277c109e567dbda461f4cf7453071645[m
+Author: Daulet <example@gmail.com>
+Date:   Thu Dec 9 22:58:25 2021 +0300
+
+    -asecond
+
+[33mcommit c721a4f9a596def0a1fc9bccc71674a1e333fa97[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: Daulet <example@gmail.com>
+Date:   Tue Dec 7 22:46:15 2021 +0300
+
+    first
